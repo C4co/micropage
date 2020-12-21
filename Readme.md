@@ -18,7 +18,7 @@
 - Parcel
 - Sass
 - HTML
-- SASS
+- Javascript
 
 ### Dev
 ```
