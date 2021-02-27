@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    alt="icon"
-    width="90"
-    src="https://i.imgur.com/OhmPwuS.png"
-  />
-</p>
-
 <h1 align="center">
   Micropage
 </h1>
