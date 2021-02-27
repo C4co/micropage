@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1>
   Micropage
 </h1>
 
-<p align="center">
+<p>
   Simple and fast html page.
 </p>
 
