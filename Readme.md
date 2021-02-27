@@ -1,16 +1,8 @@
-<p align="center">
-  <img
-    alt="icon"
-    width="90"
-    src="https://i.imgur.com/OhmPwuS.png"
-  />
-</p>
-
-<h1 align="center">
+<h1>
   Micropage
 </h1>
 
-<p align="center">
+<p>
   Simple and fast html page.
 </p>
 
