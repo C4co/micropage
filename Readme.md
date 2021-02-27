@@ -6,6 +6,8 @@
   Simple and fast html page.
 </p>
 
+[![Node.js CI](https://github.com/C4co/micropage/actions/workflows/node.js.yml/badge.svg)](https://github.com/C4co/micropage/actions/workflows/node.js.yml)
+
 ### What's inside
 - Parcel
 - Sass
